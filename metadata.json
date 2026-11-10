@@ -1,0 +1,6 @@
+{
+  "name": "OmniCase AI",
+  "description": "Discussão e análise multidisciplinar de casos com múltiplas IAs (Gemini, OpenAI, Claude, OpenRouter) e avaliação de imagens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
